@@ -1,0 +1,12 @@
+.imgs{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin: 2em 1em;
+}
+/*
+.imgs_logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}*/

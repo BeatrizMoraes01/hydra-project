@@ -1,0 +1,15 @@
+@import url(../styles/header.css);
+@import url(../styles/main.css);
+
+:root{
+    --branco: #FFFFFF;
+    --rodoGradiente:  rgba(192, 183, 232, 1);
+    --gadiente: linear-gradient(to left, #C0B7E8, #8176AF);
+    --black: #343045;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    background-color: #343045;
+}
